@@ -68,3 +68,22 @@ The projects are written in **Python**. You will need the following libraries in
 
 ```bash
 pip install numpy opencv-python matplotlib pillow scikit-learn
+
+```
+
+## 🚀 How To Run
+
+Navigate to a specific problem directory and run the python script. For example, to run Problem 4 (HDR):
+
+```bash
+cd Problem-4/Code
+python problem-4.py
+```
+
+*Note: Ensure that the input image paths inside the scripts match your local directory structure*.
+
+## 👥 Credits
+
+**Team**: The Quantizers
+
+Developed as part of the coursework for **23ELC361 Digital Image Processing**.
